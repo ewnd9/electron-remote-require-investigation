@@ -1,3 +1,7 @@
+## Context
+
+https://github.com/ewnd9/electron-image-menu/commit/3bd3f09c894a972256703e99bacc9134e92bc2e2#commitcomment-17023844
+
 ## Description
 
 `index.html` (renderer) contains code requiring dependency 'a' which try to require both via
